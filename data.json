@@ -1,0 +1,283 @@
+[
+  {
+    "title": "HTML,CSS Beginner Level to Advanced",
+    "coursePhoto": "https://www.chicagocomputerclasses.com/wp-content/uploads/2014/04/html5-css31.png",
+    "anoPhoto": "https://cdn.hashnode.com/res/hashnode/image/upload/v1675164163842/423e9571-4102-495b-b68c-83170c88aef0.png",
+    "description": [
+      "In this comprehensive HTML CSS course, you will learn everything you need to know to create beautiful and functional websites from scratch. Whether you are a complete beginner or have some prior experience, this course will take you from the basics to advanced topics in a step-by-step and easy-to-follow manner.",
+      "Starting with the fundamentals of HTML, you will learn how to create the structure of a web page, add headings, paragraphs, links, images, and other elements. You will also learn about the latest HTML5 tags and how to use them to create semantic and accessible web pages.",
+      "Next, you will dive into CSS and learn how to add styles to your web pages to make them look professional and appealing. You will learn about CSS syntax, selectors, properties, values, and units. You will also learn about box model, layout techniques, responsive design, and how to use CSS frameworks and preprocessors.",
+      "As you progress through the course, you will tackle more advanced topics such as CSS animations, transitions, and transforms, as well as how to work with multimedia, forms, and APIs. You will also learn about best practices for web development, including accessibility, performance, and SEO.",
+      "By the end of this course, you will have a solid understanding of HTML and CSS and be able to create responsive and interactive websites that look great on any device. You will also have a portfolio of projects that you can use to showcase your skills to potential employers or clients.",
+      "Enroll now and start your journey to becoming a proficient web developer!"
+    ],
+    "price": 40,
+    "workshop": [
+      "Getting Started: Tools You Need to Get Started.",
+      "Syntax: Tags, Attributes and Elements",
+      "First Elements: Headings and Paragraphs",
+      "Lists: ordered and unordered lists.",
+      "Links: hyperlinks",
+      "Images: images, image links",
+      "Tables: spreadsheet type of data.",
+      "Forms: Text boxes, number boxes, dropdowns.",
+      "Videos/Maps/Other Media: YouTube embeds, Maps etc.",
+      "HTML Forms: Creating, styling, validating, submitting forms using HTML/CSS.",
+      "CSS Layouts: Creating basic layouts using CSS, floating, positioning.",
+      "Responsive Web Design: Media queries, flexible images/videos, breakpoints.",
+      "CSS Animations: Keyframes, transforms, transition, and animation properties.",
+      "HTML5 and CSS3: New semantic elements, audio/video tags, CSS3 transitions/animations.",
+      "CSS Frameworks: Bootstrap, Foundation, Materialize, introduction to CSS frameworks.",
+      "CSS Preprocessors: SASS, LESS, introduction to CSS preprocessors.",
+      "Best Practices: Accessibility, Performance, SEO best practices for HTML/CSS."
+    ],
+    "requirement": "Bring Your Laptop, & Basic computer skills (Windows or Mac)"
+  },
+  {
+    "title": "JavaScript Basic to advanced",
+    "coursePhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN8Q5ZY5STv-aaLtgUmFKXG4uwWxDNpCHUmw&usqp=CAU",
+    "anoPhoto": "https://stackify.com/wp-content/uploads/2018/10/JavaScript-Tutorials-for-Beginners-881x441.jpg",
+    "description": [
+      "In this comprehensive JavaScript workshop, you will learn everything you need to know to become proficient in JavaScript programming, from basic to advanced concepts. Whether you are a beginner or have some experience with JavaScript, this workshop will take you on a step-by-step journey that covers all the essential topics.",
+      "Starting with the fundamentals of JavaScript, you will learn about variables, data types, operators, control structures, and functions. You will also learn how to access, modify, and create HTML elements using the Document Object Model (DOM).",
+      "Next, you will dive into more advanced topics such as Object-Oriented Programming (OOP), Arrays and Iteration, and Asynchronous Programming. You will learn how to create objects, classes, and inheritance, and how to work with arrays using higher-order functions. You will also learn how to handle asynchronous operations using callbacks, Promises, and Async/Await.",
+      "As you progress through the workshop, you will explore Browser APIs, including working with the DOM, Web APIs, and Events. You will also learn about jQuery, a popular JavaScript library for DOM manipulation and animation.",
+      "You will then explore some of the latest features of JavaScript such as ES6+ features, including Arrow Functions, Template Literals, Destructuring, Rest/Spread Operators, and Modules.",
+      "Towards the end of the workshop, you will learn about React, a popular JavaScript library for building user interfaces. You will learn about React Components, Props, State, and Lifecycle methods, and how to use them to build complex web applications.",
+      "Finally, you will learn about best practices for JavaScript development, including code quality, performance, testing, debugging, and deployment strategies.",
+      "Enroll now and become a proficient JavaScript developer with this comprehensive workshop!"
+    ],
+    "price": "75",
+    "workshop": [
+      "JavaScript Fundamentals: Variables, data types, operators, control structures, functions.",
+      "DOM Manipulation: Accessing, modifying, and creating HTML elements with JavaScript.",
+      "Object-Oriented Programming: Creating objects, classes, inheritance, encapsulation, and polymorphism.",
+      "Arrays and Iteration: Working with arrays, for, forEach, map, filter, reduce functions.",
+      "Asynchronous Programming: Callbacks, Promises, Async/Await, handling errors, and timeouts.",
+      "Browser APIs: Working with the Document Object Model, Web APIs, and Events",
+      "jQuery: Introduction to jQuery library for DOM manipulation and animation.",
+      "ES6+ Features: Arrow functions, template literals, destructuring, rest/spread, and modules.",
+      "React: Introduction to React library, components, props, state, and lifecycle",
+      "Best Practices: Code quality, performance, testing, debugging, and deployment strategies."
+    ],
+    "requirement": "Bring Your Laptop, &  Basic HTML,CSS and basic computer skills (Windows or Mac)"
+  },
+  {
+    "title": "React js Basic to Advance",
+    "coursePhoto": "https://itsg-global.com/wp-content/uploads/2016/09/react-js-to-use-or-not-to-use.png",
+    "anoPhoto": "https://solguruz.com/wp-content/uploads/2022/09/ReactJS-Framework-Benefits.png",
+    "description": [
+      "In this comprehensive React JS workshop, you will learn everything you need to know to become proficient in building modern, dynamic web applications using React, from basic to advanced concepts. Whether you are a beginner or have some experience with React, this workshop will take you on a step-by-step journey that covers all the essential topics.",
+      "Starting with the fundamentals of React, you will learn about React Components, Props, and State, and how to use them to build reusable and modular UI components. You will also learn about JSX, a syntax extension to JavaScript that allows you to write HTML-like syntax in your JavaScript code.",
+      "Next, you will dive into more advanced topics such as React Router, a popular routing library for React applications. You will learn how to create routes, nested routes, and how to handle dynamic routes.",
+      "As you progress through the workshop, you will explore Redux, a popular state management library for React applications. You will learn about Redux Principles, Actions, Reducers, and the Store, and how to use them to manage complex application state.",
+      "You will then learn about React Hooks, a new addition to React that allows you to use state and other React features without writing a class. You will learn about useState, useEffect, and other React hooks and how to use them to build more concise and readable code.",
+      "Towards the end of the workshop, you will learn about more advanced topics such as Server-side Rendering (SSR), Authentication, and Real-time Data using Firebase. You will also learn about best practices for React development, including code quality, performance, testing, debugging, and deployment strategies.",
+      "Enroll now and become a proficient React JS developer with this comprehensive workshop!"
+    ],
+    "price": 70,
+    "workshop": [
+      "Introduction to React: Components, Props, State, and JSX syntax.",
+      "React Router: Creating routes, nested routes, and handling dynamic routes.",
+      "Redux: Managing application state using Actions, Reducers, and Store.",
+      "React Hooks: Using useState, useEffect, useContext, and custom hooks.",
+      "Advanced React Patterns: Render props, HOCs, and the Context API.",
+      "Server-side Rendering (SSR): Server-side rendering for better performance and SEO.",
+      "Testing React Applications: Unit testing, Integration testing, and Snapshot testing.",
+      "Authentication and Authorization: Building secure login and authorization flows.",
+      "Real-time Data with Firebase: Integrating Firebase for real-time data synchronization.",
+      "Best Practices: Code quality, performance, debugging, and deployment strategies."
+    ],
+    "requirement": "Bring Your Laptop, Basic HTML,CSS and JavaScript Basic to advance and basic computer skills (Windows or Mac)"
+  },
+  {
+    "title": "Google Firebase Authentication System",
+    "coursePhoto": "https://cdn-media-1.freecodecamp.org/images/1*AoarrKQjCE0zVJkxl9za8Q.jpeg",
+    "anoPhoto": "https://images.viblo.asia/984d98f6-ecf4-46cf-9d94-ed256fa219a6.png",
+    "description": [
+      "In this comprehensive course, you will learn how to implement a secure and scalable authentication system using Google Firebase. Firebase Authentication provides a powerful and easy-to-use authentication infrastructure that allows you to quickly and securely authenticate users with a variety of sign-in methods.",
+      "Starting with the basics, you will learn how to set up Firebase Authentication and integrate it with your web or mobile application. You will learn how to authenticate users with email and password, and how to use Firebase UI to handle social sign-in with Google, Facebook, Twitter, and other providers.",
+      "Next, you will dive into more advanced topics such as custom authentication, user management, and security rules. You will learn how to integrate Firebase Authentication with your existing authentication system and how to manage user accounts, roles, and permissions. You will also learn how to set up security rules to protect user data and prevent unauthorized access.",
+      "As you progress through the course, you will explore more advanced topics such as OAuth and authorization, multi-factor authentication, and passwordless authentication. You will learn how to implement Single Sign-On (SSO) and how to add an extra layer of security with MFA.",
+      "Towards the end of the course, you will learn about best practices for error handling, performance, and deployment strategies. You will also learn how to use Firebase Authentication in conjunction with other Firebase features such as Cloud Firestore, Cloud Functions, and Cloud Storage.",
+      "Enroll now and become proficient in implementing a secure and scalable authentication system using Google Firebase!"
+    ],
+    "price": 70,
+    "workshop": [
+      "Introduction to Firebase: Overview of Firebase features and setup.",
+      "Firebase Authentication Basics: User authentication with email and password.",
+      "Social Sign-In: Authentication with Google, Facebook, Twitter, and more.",
+      "Custom Authentication: Integration with existing authentication systems.",
+      "User Management: Managing user accounts, roles, and permissions.",
+      "Security Rules: Setting up security rules to protect user data.",
+      "OAuth and Authorization: Authorization with OAuth providers and custom claims.",
+      "Multi-Factor Authentication: Adding an extra layer of security with MFA.",
+      "Advanced Topics: Implementing Single Sign-On (SSO) and Passwordless Authentication.",
+      "Best Practices: Error handling, performance, and deployment strategies."
+    ],
+    "requirement": "Bring Your Laptop, Basic HTML,CSS and JavaScript Basic to advance and basic computer skills (Windows or Mac)"
+  },
+  {
+    "title": "Mongodb Basic to Advance",
+    "coursePhoto": "https://res.cloudinary.com/hevo/image/upload/v1626694700/hevo-blog/MongoDB-sm-logo-500x400-1-1.gif",
+    "anoPhoto": "https://webimages.mongodb.com/_com_assets/cms/kuzt9r42or1fxvlq2-Meta_Generic.png",
+    "description": [
+      "MongoDB is a popular NoSQL database that allows you to store and retrieve data in flexible and scalable ways. In this course, you will learn the basics of MongoDB and progress to advanced topics, gaining proficiency in working with this powerful database technology.",
+      "Starting with the basics, you will learn how to install and set up MongoDB, and how to work with the MongoDB shell. You will learn how to create databases and collections, insert and retrieve data, and perform queries and aggregations.",
+      "Next, you will dive into more advanced topics such as indexing, performance tuning, and replication. You will learn how to optimize your MongoDB queries and how to scale your database using sharding and replica sets.",
+      "As you progress through the course, you will explore more advanced topics such as data modeling, security, and administration. You will learn how to design your MongoDB schema for optimal performance and how to secure your database using authentication and authorization.",
+      "Towards the end of the course, you will learn about best practices for backup and recovery, monitoring, and deployment strategies. You will also learn how to use MongoDB in conjunction with other technologies such as Node.js and Express.",
+      "By the end of the course, you will be proficient in working with MongoDB, and able to use it to build flexible, scalable, and high-performance database solutions.",
+      "Enroll now and become proficient in working with MongoDB!"
+    ],
+    "price": 80,
+    "workshop": [
+      "Introduction to MongoDB: Overview of MongoDB features and setup.",
+      "Basic CRUD Operations: Creating, reading, updating, and deleting data",
+      "Querying and Aggregation: Advanced querying and data aggregation techniques.",
+      "Indexing and Performance Tuning: Optimizing MongoDB queries for performance.",
+      "Scaling and Replication: Scaling MongoDB using sharding and replica sets.",
+      "Data Modeling: Designing MongoDB schema for optimal performance.",
+      "Security and Authentication: Securing MongoDB using authentication and authorization",
+      "Backup and Recovery: Best practices for backup and recovery strategies.",
+      "Monitoring and Optimization: Monitoring MongoDB and optimizing performance.",
+      "Integration with Node.js and Express: Using MongoDB in conjunction with Node.js and Express."
+    ],
+    "requirement": "Bring Your Laptop, Basic HTML,CSS and JavaScript Basic to advance ,a javaScript FrameWork(optional) and basic computer skills (Windows or Mac)"
+  },
+  {
+    "title": "Redux & nextjs",
+    "coursePhoto": "https://miro.medium.com/v2/resize:fit:1400/1*5iig6fiGlGW4rbDLZsKG_w.jpeg",
+    "anoPhoto": "https://miro.medium.com/v2/resize:fit:1400/1*RFX6WmgwWE-f5xRMDbbncg.png",
+    "description": [
+      "In this course, you will learn how to build modern web applications using Redux and Next.js. Redux is a popular state management library that allows you to manage the state of your application in a predictable and efficient way. Next.js is a powerful framework for building server-rendered React applications that provides many advanced features out of the box.",
+      "Starting with the basics, you will learn how to set up a Next.js project and how to integrate Redux into your application. You will learn how to use Redux to manage your application state and how to use Redux Toolkit to simplify your Redux code.",
+      "Next, you will dive into more advanced topics such as server-side rendering, data fetching, and performance optimization. You will learn how to use Next.js to implement server-side rendering and how to fetch data from APIs using various methods such as getStaticProps and getServerSideProps.",
+      "As you progress through the course, you will explore more advanced topics such as authentication, testing, and deployment. You will learn how to implement authentication using JWT and how to write tests for your Redux and Next.js code. You will also learn how to deploy your application to popular platforms such as Vercel.",
+      "Towards the end of the course, you will learn about best practices for structuring your Redux and Next.js code, and how to build reusable components and libraries. You will also learn how to use Redux DevTools to debug your application.",
+      "Enroll now and become proficient in building modern web applications using Redux and Next.js"
+    ],
+    "price": 70,
+    "workshop": [
+      "Introduction to Next.js and Redux: Overview of Next.js and Redux features and setup.",
+      "Implementing Redux in Next.js: Integrating Redux into a Next.js application.",
+      "Using Redux Toolkit: Simplifying Redux code with Redux Toolkit.",
+      "Server-Side Rendering: Implementing server-side rendering with Next.js.",
+      "Data Fetching with Next.js: Fetching data from APIs with Next.js.",
+      "Authentication with JWT: Implementing authentication using JWT.",
+      "Testing Redux and Next.js: Writing tests for Redux and Next.js code.",
+      "Deployment with Vercel: Deploying a Next.js application to Vercel.",
+      "Best Practices for Structuring Code: Structuring Redux and Next.js code for maintainability.",
+      "Debugging with Redux DevTools: Debugging a Next.js application with Redux DevTools."
+    ],
+    "requirement": "Bring Your Laptop, Basic HTML,CSS and JavaScript advance ,Reactjs and basic computer skills (Windows or Mac)"
+  },
+  {
+    "title": "TypeScript Basic to Advanced",
+    "coursePhoto": "https://cdn-icons-png.flaticon.com/512/5968/5968381.png",
+    "anoPhoto": "https://blog.theodo.com/static/ba2166b279b234c4824d1c2fb299ced2/ee604/ts_logo.png",
+    "description": [
+      "In this course, you will learn how to build robust and scalable web applications using TypeScript. TypeScript is a popular superset of JavaScript that adds static typing, classes, and interfaces to JavaScript, making it a more powerful and flexible language for building complex applications.",
+      "Starting with the basics, you will learn how to set up a TypeScript project and how to use TypeScript with popular frameworks such as React and Angular. You will learn how to use TypeScript's advanced type system to catch errors at compile-time and how to use generics and decorators to write clean and reusable code.",
+      "Next, you will dive into more advanced topics such as asynchronous programming, modules, and tooling. You will learn how to use async/await and Promises to write efficient and maintainable asynchronous code. You will also learn how to use TypeScript's module system to organize your code and how to use popular tools such as Webpack and Babel to optimize your TypeScript build process.",
+      "As you progress through the course, you will explore more advanced topics such as advanced types, testing, and debugging. You will learn how to use conditional types, mapped types, and type guards to write more expressive and flexible code. You will also learn how to write unit tests and how to use TypeScript's built-in debugger to troubleshoot your code.",
+      "Towards the end of the course, you will learn about best practices for structuring your TypeScript code, and how to integrate TypeScript into your existing JavaScript projects. You will also learn how to use popular libraries such as RxJS and NestJS to build advanced applications.",
+      "Enroll now and become proficient in building robust and scalable web applications using TypeScript!"
+    ],
+    "price": 80,
+    "workshop": [
+      "Introduction to TypeScript: Overview of TypeScript features and setup.",
+      "Using TypeScript with React: Integrating TypeScript with a React application.",
+      "Using TypeScript with Angular: Integrating TypeScript with an Angular application.",
+      "Advanced Types: Using advanced TypeScript types to write more expressive code.",
+      "Asynchronous Programming with TypeScript: Writing efficient and maintainable asynchronous code.",
+      "TypeScript Modules: Organizing your code with TypeScript modules.",
+      "Testing with TypeScript: Writing unit tests for TypeScript code.",
+      "Tooling with TypeScript: Using Webpack, Babel, and other tools with TypeScript.",
+      "Debugging with TypeScript: Using the built-in debugger to troubleshoot TypeScript code.",
+      "Best Practices for Structuring Code: Structuring TypeScript code for maintainability."
+    ],
+    "requirement": "Bring Your Laptop, &  Basic HTML,CSS,Advance JavaScirpt and basic computer skills (Windows or Mac)"
+  },
+  {
+    "title": "GraphQL Advance",
+    "coursePhoto": "https://cdn.codersociety.com/uploads/graphql-reasons.png",
+    "anoPhoto": "https://romankudryashov.com/blog/2020/02/how-to-graphql/images/architecture.png",
+    "description": [
+      "GraphQL is a powerful and flexible query language for APIs that allows you to request exactly the data you need, and nothing more. In this course, you will learn how to build APIs with GraphQL, and how to use GraphQL to fetch data in your web applications.",
+      "Starting with the basics, you will learn how to set up a GraphQL server and define a GraphQL schema. You will learn how to use GraphQL's type system to define your data model and how to write resolvers to fetch data from a database or other data source.",
+      "Next, you will dive into more advanced topics such as mutations, subscriptions, and authentication. You will learn how to use mutations to modify data, how to use subscriptions to receive real-time updates, and how to implement authentication using JSON Web Tokens (JWT).",
+      "As you progress through the course, you will explore more advanced topics such as caching, error handling, and performance. You will learn how to use caching to optimize your API's performance, how to handle errors and exceptions, and how to implement pagination to fetch large amounts of data efficiently.",
+      "Towards the end of the course, you will learn how to integrate GraphQL with popular web frameworks such as React and Angular. You will also learn how to use GraphQL with databases such as MongoDB and PostgreSQL, and how to deploy your GraphQL server to production.",
+      "Enroll now and become proficient in building powerful and flexible APIs with GraphQL!"
+    ],
+    "price": 60,
+    "workshop": [
+      "Introduction to GraphQL: Overview of GraphQL syntax and concepts.",
+      "Building a GraphQL Server with Node.js: Building a GraphQL server with Node.js.",
+      "Building a GraphQL API with Apollo Server: Creating a GraphQL API using Apollo Server.",
+      "GraphQL Schemas and Types: Defining GraphQL schemas and types.",
+      "GraphQL Resolvers and Data Sources: Implementing resolvers and data sources.",
+      "Queries and Mutations: Querying and mutating data in a GraphQL API.",
+      "Subscriptions and Real-time Updates: Using subscriptions for real-time updates.",
+      "Handling Errors and Exceptions: Handling errors and exceptions in a GraphQL API.",
+      "Caching with GraphQL: Using caching to optimize GraphQL performance.",
+      "Integrating GraphQL with React: Integrating GraphQL with a React application."
+    ],
+    "requirement": "Bring Your Laptop, &  Basic HTML,CSS,JavaScript ,Nodejs and basic computer skills (Windows or Mac)"
+  },
+  {
+    "title": "React Native basic to advanced",
+    "coursePhoto": "https://www.simplilearn.com/ice9/free_resources_article_thumb/React_Native_Tutorial.jpg",
+    "anoPhoto": "https://www.qed42.com/sites/default/files/styles/featured_image/public/2018-11/react-native.png?itok=lj4A4r0I",
+    "description": [
+      "React Native is a powerful framework for building mobile applications using React and JavaScript. In this course, you will learn how to use React Native to build native mobile apps for iOS and Android.",
+      "Starting with the basics, you will learn how to set up a React Native project and how to use the built-in components such as View, Text, and Image. You will learn how to use Flexbox to create layouts and how to style your app using StyleSheet.",
+      "Next, you will dive into more advanced topics such as navigation, data handling, and animation. You will learn how to use React Navigation to create a navigation structure for your app, how to fetch data from APIs using Axios, and how to create animated UI components using Animated.",
+      "As you progress through the course, you will explore more advanced topics such as integrating with third-party libraries, testing, and deployment. You will learn how to use libraries such as React Native Elements to add pre-built UI components to your app, how to test your app using Jest, and how to deploy your app to the App Store and Google Play.",
+      "By the end of this course, you will have a solid foundation in building mobile applications with React Native, and be able to create your own mobile apps for both iOS and Android platforms."
+    ],
+    "price": 70,
+    "workshop": [
+      "Introduction to React Native: Overview of React Native features and setup.",
+      "Advanced React Patterns: Render props, HOCs, and the Context API.",
+      "Building UI Components with React Native: Creating UI components using React Native.",
+      "Styling with React Native: Styling React Native components with StyleSheet.",
+      "Navigation in React Native: Navigating between screens using React Navigation.",
+      "Data Handling in React Native: Fetching data from APIs with Axios.",
+      "Using Redux with React Native: Managing app state with Redux.",
+      "Animations in React Native: Creating animated UI components with Animated",
+      "Testing React Native Apps with Jest: Testing React Native apps using Jest.",
+      "Deploying React Native Apps: Deploying apps to the App Store and Google Play.",
+      "Integrating Third-Party Libraries: Integrating pre-built UI components and libraries."
+    ],
+    "requirement": "Bring Your Laptop, &  Basic HTML,CSS,javaScirpt Advance,Reactjs and basic computer skills (Windows or Mac)"
+  },
+  {
+    "title": "Docker Advence",
+    "coursePhoto": "https://storage.googleapis.com/static.ianlewis.org/prod/img/docker/large_v-trans.png",
+    "anoPhoto": "https://www.hashroot.com/assets/img/services/devops/docker.png",
+    "description": [
+      "Docker has revolutionized the way we build, ship, and run applications. In this advanced course, you will learn how to take your Docker skills to the next level by exploring advanced topics such as orchestration, networking, and security.",
+      "Starting with a quick review of the basics, you will dive into advanced topics such as managing multiple containers using Docker Compose, scaling your applications with Docker Swarm, and running stateful applications with Docker Volumes.",
+      "You will then explore advanced networking topics such as container-to-container communication, container-to-host communication, and multi-host networking. You will also learn how to use Docker's built-in features such as DNS resolution and load balancing to manage your network traffic.",
+      "In addition, you will learn how to secure your Docker environment by exploring topics such as user authentication, image signing, and container isolation. You will also learn how to use Docker's security features such as seccomp profiles and AppArmor to protect your containers from attacks.",
+      "Finally, you will learn how to use Docker in a production environment by exploring topics such as monitoring, logging, and backup and restore. You will learn how to use tools such as Prometheus and Grafana to monitor your containers, how to use tools such as Logrotate to manage your logs, and how to use tools such as Velero to back up and restore your containers.",
+      "By the end of this course, you will have a deep understanding of advanced Docker topics and be able to take your Docker skills to the next level to build and manage complex applications with ease."
+    ],
+    "price": 75,
+    "workshop": [
+      "Docker Compose: Managing multiple containers with Docker Compose.",
+      "Docker Swarm: Scaling applications with Docker Swarm orchestration.",
+      "Docker Volumes: Running stateful applications with Docker Volumes.",
+      "Container Networking: Advanced networking with container-to-container and multi-host networking.",
+      "Docker Security: User authentication, image signing, and container isolation.",
+      "Seccomp Profiles: Using Docker's seccomp profiles for container security.",
+      "AppArmor: Using Docker's AppArmor to protect containers from attacks.",
+      "Monitoring Docker: Monitoring Docker containers with Prometheus and Grafana.",
+      "Managing Docker Logs: Managing Docker logs with tools such as Logrotate.",
+      "Backup and Restore: Backing up and restoring Docker containers with Velero."
+    ],
+    "requirement": "Bring Your Laptop, Operating System: Concepts,Command-line Interface: Familiarity,Containerization: Understanding & and basic computer skills (Windows or Mac)"
+  }
+]
